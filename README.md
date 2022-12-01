@@ -1,4 +1,5 @@
-# FDM_template
-FDM template repo
+# FDM_PrimaryCare
+FDM repo
 
-## Change the title of this README to match the name of the dataset and provide basic details about the data source and FDM contents.
+## Contains the scripts and data dictionary for the Primary Care . This is the GP datasets for Bradford and Airedale discticts. It contains approximately
+## 1.2 million patients with the full clinical record. The dataset has been fully anonymised, but can link to other FDM's.
