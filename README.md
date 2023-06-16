@@ -10,5 +10,3 @@ CB_FDM_PrimaryCare_V6 - build date 2023-01-01 - data up to 2022-12-30
 CB_FDM_PrimaryCare_V7 - build date 2023-04-01 - data up to 2023-03-30
 CB_FDM_PrimaryCare_V8 - build date 2023-06-16 - data up to 2023-06-06
 
-
-
