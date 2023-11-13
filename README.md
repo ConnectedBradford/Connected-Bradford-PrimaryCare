@@ -10,23 +10,15 @@ Contains the scripts and documentation for Primary Care
 
 It contains approximately 1 million patients. The dataset has been fully anonymised, but can link to other FDM's.
 
-There are five FDM for Primary Care . 
+TheFDM for Primary Care is:  
 
-CB_FDM_PrimaryCare_v4	build date: 27/02/2022	data up to : 2022-02-27
-
-CB_FDM_PrimaryCare_v5	build date: 29/09/2022	data up to : 2022-09-29
-
-CB_FDM_PrimaryCare_V6	build date: 30/12/2022	data up to : 2022-12-30
-
-CB_FDM_PrimaryCare_V7	build date: 30/03/2023	data up to : 2023-03-30
-
-CB_FDM_PrimaryCare_V8	build date: 03/07/2023	data up to : 2023-10-11
+CB_FDM_PrimaryCare_V8	build date: 03/07/2023	data up to : 2023-11-13
 
 
 # Primary Care
-The Primary Care FDM is made up of 17 source table (summarised below and data dictionaries linked) from routinely collected data for 1,176,111 individuals and their routinely collected clinical data. 
+The Primary Care FDM is made up of 17 source table (summarised below and data dictionaries linked) from routinely collected data for 1,177,802  individuals and their routinely collected clinical data. 
 
-The dates relevant for the latest build are: 1900-01-01	to 2023-10-11
+The dates relevant for the latest build are: 1900-01-01	to 2023-11-13
 
 The source tables are largely populated by fields with the tbl_ where there is a person and a start and end date, and cb_ where there is no identifiable person, these are typically lookups.
 
