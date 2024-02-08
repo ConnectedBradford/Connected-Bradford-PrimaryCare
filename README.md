@@ -9,15 +9,15 @@ This is the Connected Bradford Primary Care GitHub page where you can find a sum
 Contains the scripts and documentation for Primary Care
 It contains approximately 1 million patients. The dataset has been fully anonymised, but can link to other FDM's.
 
-CB_FDM_PrimaryCare_V8	build date: 03/07/2023	
+CB_FDM_PrimaryCare_V9	build date: 2024-02-08	
 
-Data up to: 2023-11-13
+Data up to: 2024-02-08
 
-Observation Period Dates: 1900-01-01	to 2023-11-13
+Observation Period Dates: 1900-01-01	to	2024-02-08
 
 
 # Primary Care
-The Primary Care FDM is made up of 17 source table (summarised below and data dictionaries linked) from routinely collected data for 1,177,802  individuals and their routinely collected clinical data. 
+The Primary Care FDM is made up of 48 source table (summarised below and data dictionaries linked) from routinely collected data for 1,185,326  individuals and their routinely collected clinical data. 
 
 
 
@@ -32,39 +32,101 @@ visit.
 
 ### The source data tables are: 
 
-cb_change_log
+tbl_Admin_LoadLog
 
-cb_srmedicationreadcodedetails
+tbl_SRAppointment
 
-tbl_srappointment
 
-tbl_srcode
+tbl_SRCHSStatusHistory
 
-tbl_srconfiguredlistoption
+tbl_SRCode
 
-tbl_srimmunisation
+tbl_SRCodeTemplateLink
 
-tbl_srimmunisationcontent
+tbl_SRConfiguredListOption
 
-tbl_srorganisation
+tbl_SRDrugSensitivity
 
-tbl_srpatient
+tbl_SREvent
 
-tbl_srpatientaddresshistory
+tbl_SREventLink
 
-tbl_srpatientregistration
+tbl_SRGPPracticeHistory
 
-tbl_srprimarycaremedication
+tbl_SRGoal
 
-tbl_srreferralin
+tbl_SRImmunisation
 
-tbl_srreferralout
+tbl_SRImmunisationConsent
 
-tbl_srstaffmemberprofile
+tbl_SRImmunisationContent
 
-tbl_srvisit
+tbl_SRMapping
 
-tbl_visit_builder
+tbl_SRMappingGroup
+
+tbl_SRMedicationReadCodeDetails
+
+tbl_SROnlineServices
+
+tbl_SROrganisation
+
+tbl_SROrganisationBranch
+
+tbl_SROverseasVisitorChargingCategory
+
+tbl_SRPatient
+
+tbl_SRPatientAddressHistory
+
+tbl_SRPatientGroups
+
+tbl_SRPatientRegistration
+
+tbl_SRPatientRelationship
+
+tbl_SRPersonAtRisk
+
+tbl_SRPrimaryCareMedication
+
+tbl_SRProblem
+
+tbl_SRRecall
+
+tbl_SRReferralIn
+
+tbl_SRReferralInIntervention
+
+tbl_SRReferralInReferralReason
+
+tbl_SRReferralInStatusDetails
+
+tbl_SRReferralOut
+
+tbl_SRReferralOutStatusDetails
+
+tbl_SRRepeatTemplate
+
+tbl_SRRota
+
+tbl_SRRotaSlot
+
+tbl_SRSmsConsent
+
+tbl_SRStaffMember
+
+tbl_SRStaffMemberProfile
+
+tbl_SRStaffMemberProfileRole
+
+tbl_SRTemplate
+
+tbl_SRTrust
+
+tbl_SRVariableDoseCDMedication
+
+tbl_SRVisit
+
 
 For more information please go to the docs folder. 
 
