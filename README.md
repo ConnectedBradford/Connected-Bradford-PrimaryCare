@@ -4,31 +4,25 @@
 
 This is the Connected Bradford Primary Care GitHub page where you can find a summary of the dataset(s), data dictionaries and helpful code.
 
-# CB_FDM_Primary Care
+# Flexible Data Model (FDM) 
+
+As a standard all our research datasets are stored in a Flexible Data Model (FDM) this is loosely based on the OHDSI standards and includes a person and onbservation period table that are in OHDSI standards .Click [here](https://www.ohdsi.org/data-standardization/) for details if the OHDSI CDM Model. 
+
+
+
+# Connected Bradford Primary Care
 
 Contains the scripts and documentation for Primary Care
 It contains approximately 1 million patients. The dataset has been fully anonymised, but can link to other FDM's.
 
-CB_FDM_PrimaryCare_V9	build date: 2024-02-08	
+Connected Bradford PrimaryCare build date: 2024-02-08	, contains data up to : 2024-02-08
 
-Data up to: 2024-02-08
+The observation period for this data is: 1900-01-01	to	2024-02-08
 
-Observation Period Dates: 1900-01-01	to	2024-02-08
-
-
-# Primary Care
-The Primary Care FDM is made up of 48 source table (summarised below and data dictionaries linked) from routinely collected data for 1,185,326  individuals and their routinely collected clinical data. 
-
-
+# Tables
+The Primary Care data FDM is made up of 48 source table (summarised below and data dictionaries linked) from routinely collected data for 1,185,326  individuals and their routinely collected clinical data. 
 
 The source tables are largely populated by fields with the tbl_ where there is a person and a start and end date, and cb_ where there is no identifiable person, these are typically lookups.
-
-### Standard FDM tables included in this dataset*
-person.
-
-observation period.
-
-visit.
 
 ### The source data tables are: 
 
