@@ -6,7 +6,7 @@ This is the Connected Bradford Primary Care GitHub page where you can find a sum
 
 # Flexible Data Model (FDM) 
 
-As a standard all our research datasets are stored in a Flexible Data Model (FDM) this is loosely based on the OHDSI standards and includes a person and onbservation period table that are in OHDSI standards .Click [here](https://www.ohdsi.org/data-standardization/) for details if the OHDSI CDM Model. 
+As a standard all our research datasets are stored in a Flexible Data Model (FDM) this is loosely based on the OHDSI standards and includes a person and observation period table that are in OHDSI standards .Click [here](https://www.ohdsi.org/data-standardization/) for details of the OHDSI CDM Model. 
 
 
 
