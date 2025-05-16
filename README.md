@@ -15,9 +15,9 @@ As a standard all our research datasets are stored in a Flexible Data Model (FDM
 Contains the scripts and documentation for Primary Care
 It contains approximately 1 million patients. The dataset has been fully anonymised, but can link to other FDM's.
 
-Connected Bradford PrimaryCare build date: 2024-02-08	, contains data up to : 2024-02-08
+Connected Bradford PrimaryCare build date: 2024-02-08	, contains data up to : 2025-04-08
 
-The observation period for this data is: 1900-01-01	to	2024-02-08
+The observation period for this data is: 1900-01-01	to	2025-04-08
 
 # Tables
 The Primary Care data FDM is made up of 48 source table (summarised below and data dictionaries linked) from routinely collected data for 1,185,326  individuals and their routinely collected clinical data. 
