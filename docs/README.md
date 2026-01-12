@@ -1,8 +1,5 @@
 FDM Documents
 
-Contains all documentation for the <dataset> FDM.
-
-Contents:
-
-datadict/ - <dataset> FDM Data Dictionary files
+Comntains the Strategic Reporting Specification. All data conforms to this specirfication. 
+However, tables are limited to those referenced on the previous page.
 
